@@ -75,3 +75,6 @@ GitHub Actions integrates with code analysis tools, such as linters, static code
 Automated code reviews and quality checks ensure that the Tamagotchi app adheres to best practices and security guidelines. 
 
 Reference: GitHub Documentation, Code Scanning 
+
+
+YouTube link: https://youtu.be/LZo9o_RWIKo
